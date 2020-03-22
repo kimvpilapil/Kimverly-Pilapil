@@ -15,22 +15,24 @@ Email Address:
 ![kimvee](https://user-images.githubusercontent.com/62003066/77240397-7334d780-6c39-11ea-9b61-fd48cd3eb4d1.jpg)
 
 
+My name is *Kimverly* or *Kim* for short.
+I was born in the Philippines and arrived in Australia back in 2010.
+At home I can speak both Tagalog and Visaya; Philippines' national languages.
+I graduated from RMIT back in 2018 and got my Bachelors of Nursing.
+In the Philippines, if your child become a nurse, it is held in high regards
+which includes boasting to the neighbour how smart your kid is.
+This is why it is quite common for Filipinos to puruse nursing.
+
+
+Fun Fact About Me:
+> I love anything horror from movies, games and books,
+   but will get scared if I'm alone in the dark.
+>Big closet weeb and nerd; please recommend me the goriest anime,
+  nothing quite beats Corpse Party yet.
+> I love games but i suck at most of them, I actually prefer to watch and yell more haha.
 
 
 
-
-Personal Information 
-Include your name,
-student number
- email address,
- and some basic background   
- 
-information nationality
-and culture
-, education to date
-, languages spoken etc).
-Include at least one factabout yourself that others may find interesting,
-such as a hobby, a pet or your favourite sport or other pastime.
 
 
 
