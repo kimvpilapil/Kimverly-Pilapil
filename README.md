@@ -200,6 +200,7 @@ institution again as I find the environment and tutors really proactive and supp
   <br/>
   
   ![campaigner](https://user-images.githubusercontent.com/62003066/77246427-46a1af80-6c7b-11ea-891d-c5d1635a1042.png)
+  <br/>
   https://www.16personalities.com/enfp-personality
   
   <br/>
@@ -213,6 +214,7 @@ institution again as I find the environment and tutors really proactive and supp
   <br/>
   
 ![Visual](https://user-images.githubusercontent.com/62003066/77246485-d0ea1380-6c7b-11ea-9686-cf3069c9b2c1.png)
+<br/>
 http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=5&V=8&T=7
 
 <br/>
@@ -224,6 +226,7 @@ http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.s
 
 <br/>
 ![big5](https://user-images.githubusercontent.com/62003066/77246512-29b9ac00-6c7c-11ea-88b4-0e373a470824.png)
+<br/>
 https://www.truity.com/personality-test/17315/test-results/17215751
 
 <br/>
@@ -258,8 +261,78 @@ https://www.truity.com/personality-test/17315/test-results/17215751
 <br/>
 
 
+![VR](https://user-images.githubusercontent.com/62003066/77247785-6db2ae00-6c88-11ea-9f5e-d0dc90f7a784.jpg)
+<br/>
+https://cdn3.dualshockers.com/wp-content/uploads/2017/10/République-VR.jpg
+<br/>
 
-  
+<br/>
+
+**Overview**
+<br/>
+
+<br/>
+Creating and developing a VR game which will enable users to create their own avatar, choose their own kind, powers and story development. This will consist of similar adaptations from games such as Black Dessert Online and Perfect World. Furthermore, users will get to take full advantage of being sent to a different reality which can only be seen in movies, games and anime. This is inspired by the anime “Sword Art Online” and also the Netflix special “Black Mirror” where the main characters get thrown into a fantasy world where they can be whoever they want to be.
+<br/>
+
+<br/>
+**Motivation**
+<br/>
+
+<br/>
+This project is everything every gamer are looking for; to be sent to a different dimension in the comfort of their own room, office, anywhere with a VR access. For those who dislike socialising in person and being in contact with another human being, this is the game for them. For those who wants to restart life as someone else or get the chance to live in their favourite anime or movie, this will also be targeted towards this audience. With Virtual Reality, anything is possible; If you can think it, we can make it.
+<br/>
+
+<br/>
+**Problem**
+<br/>
+
+<br/>
+Use of VR using the mind can come at a cost as can be seen in the Black Mirror episode called “USS Callister”. The hardware malfunctioned and the player died as he cannot leave the game. The same as Sword Art Online; if they die in the game, their brain will explode in real life.
+<br/>
+
+<br/>
+**Description**
+<br/>
+
+<br/>
+This game will consist of a few things everyone will have already seen in gaming; but better because its not just and AR where you can catch pokemon in your living room, its an actual virtual world. 
+<br/>
+
+<br/>
+*Avatar design*: This feature will allow gamers to utilise their imagination to their limits. You can change any part of the body which includes changing the colour and even texture as well. Users will have access to every face, nose, lip etc. shape they can think of and can even turn their avatar to look exactly like their former self. Of course you can be female, male or be gender neutral.
+<br/>
+
+<br/>
+*Outfits*: Just like the avatar design, users will have the ability to clothe their avatar in many but limited clothing as more will have to be paid using the games currency. This is to support the team who created and manufactured this masterpiece. It will include the bare necessity but full access to the colour wheel. Go wild!
+<br/>
+
+<br/>
+*Race*: If you think you weren’t meant to be born as a human but an elf, here’s your chance. There are many folklores regarding types of races but will stick with the ones everyone is already familiar of but will expand later in the game as players reach a certain level to keep it more interesting. The 5 main starts will be Human, Elf, Angel, Demon and Witch. After hitting level 100, players will get the chance to change their race once for free which will include the Elementalist, Animalia and so on.
+<br/>
+
+<br/>
+*Special Trait*: Each race will have their own special power only dedicated for them. For example an angel will be able to fly whereas a human wont be able to but will have a different set of skills only a human can do. Each player will get the chance to pick their starting power and develop it later as they level up; the same as any other game basically. 
+<br/>
+
+<br/>
+*Story Development*: This game will be story based only at the beginning to help players with minimal knowledge on RPG games get a head start. The story will end at level 100 where they can choose a different race or stick to their original one to be prepared for open world player-vs-player. This will allow gamers to continuously play the game more in order to gain materials to level up their equipment’s and defend or attack foes during pvp. By doing this, players will get the chance to enjoy the game, watch the scenic views, fully engage in the story before getting obliterated by opponents; only if they want to pvp.
+<br/>
+
+<br/>
+*Tools and Technology*: The game will be run via VR; we are talking about the future here which will only include a mind controlled headset. My chosen company will be run by either Oculus or the HTC Hive as these two are dominating the VR industry at this moment.  The VR’s aim is to stimulate the visual and auditory sensation that will create an immersive 3D environment . To create a truly immersive virtual reality there are certain prerequisites - a frame rate of minimum 60fps, an equally competent refresh rate and minimum 100-180 degree field of view. 3D sound effects and Head Tracking are used to detect three-dimensional movement. Blender is quickly becoming a favourite modeler for many VR developers. It's free and open source software written in Python and is available for Windows, Mac, and Linux. The most popular ones are Unity 3D, Unreal Engine and Amazon Sumerian.
+<br/>
+
+<br/>
+*Skills*: First of all, creating any game is hard; if it’s easy, you are doing it wrong. There are so many skillsets needed to create a game. You need years of experience and IT skills especially with the VR system. It is highly complex and will require a variety of experienced IT workers to create, as each have different components. Unity is considered the mandatory tool for beginning VR engineers, Unity supports all main VR devices and file formats used by different 3D building applications. There are other steps required to creating a VR game such as creating a prototype, choosing a platform and performance testing.
+<br/>
+
+<br/>
+*Outcome*: If the project is successful, it will be another great leap for the tech industry as everyone’s dream can become reality just by putting on a headset. This VR software can also be used for other purposes such as training or going to a meeting. This is especially handy during the Corona Virus Pandemic that is causing Australia to go on a lockdown. Worker won’t need to leave the house; of course, depending on their jobs. For those in hospital, family and relatives may be able to visit them in a virtual reality without having to be exposed t the virus. To add on, people with disabilities will be able to run, walk or fly which can help with underlying mental illnesses they may have developed from it. This project will help millions, or not, billions of people worldwide including the business, healthcare and workforce industry.
+<br/>
+
+<br/>
+
   
   
   
