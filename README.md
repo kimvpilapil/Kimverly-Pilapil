@@ -188,6 +188,36 @@ institution again as I find the environment and tutors really proactive and supp
   <br/>
   
   
+  ## Personal Profile
+  <br/>
+  
+  
+  <br/>
+  
+  **16PERSONALITIES (MYERS-BRIGGS TYPE TEST)**
+  <br/>
+  
+  <br/>
+  
+  ![campaigner](https://user-images.githubusercontent.com/62003066/77246427-46a1af80-6c7b-11ea-891d-c5d1635a1042.png)
+  https://www.16personalities.com/enfp-personality
+  
+  <br/>
+  
+  <br/>
+  
+  **Online Learning Style Test**
+  
+  <br/>
+  
+  <br/>
+  
+  
+  
+  
+ 
+ 
+  
   
   
 
