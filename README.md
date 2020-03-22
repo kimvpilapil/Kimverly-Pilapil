@@ -10,7 +10,7 @@ Email Address:
 
 
 
- $georgia # ABOUT ME
+# ABOUT ME
 
 ![kimvee](https://user-images.githubusercontent.com/62003066/77240397-7334d780-6c39-11ea-9b61-fd48cd3eb4d1.jpg)
 
