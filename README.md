@@ -1,4 +1,18 @@
-## Hello viewers, welcome to my page!
+#Hello viewers, welcome to my page!
+
+Name:
+>Kimverly Grace Pilapil
+
+Student Number:
+>s3609748
+
+Email Address:
+>s3609748@student.rmit.edu.au
+
+
+
+
+
 
 
 Personal Information 
