@@ -22,10 +22,10 @@ I graduated from RMIT back in 2018 and got my Bachelors of Nursing.
 In the Philippines, if your child become a nurse, it is held in high regards
 which includes boasting to the neighbour how smart your kid is.
 This is why it is quite common for Filipinos to pursue nursing.
-Hence why I'm doing this course; to explore endless possibilities with *TECHNOLOGY*
+Hence why I'm doing this course; to explore endless possibilities with *TECHNOLOGY*.
 
 
-
+![anime](https://user-images.githubusercontent.com/62003066/77240764-ba24cc00-6c3d-11ea-89a8-799bd9d8332b.jpg)
 
 ## Fun Facts About Me
 1. I love anything horror from movies, games and books,but will get scared if I'm alone in the dark.
@@ -33,7 +33,6 @@ Hence why I'm doing this course; to explore endless possibilities with *TECHNOLO
 3. I love games but i suck at most of them, I actually prefer to watch and yell more haha.
 
 
-![anime](https://user-images.githubusercontent.com/62003066/77240764-ba24cc00-6c3d-11ea-89a8-799bd9d8332b.jpg)
 
 
 
