@@ -1,5 +1,3 @@
-#Hello viewers, welcome to my page!
-
 Name:
 >Kimverly Grace Pilapil
 
@@ -12,7 +10,7 @@ Email Address:
 
 
 
-
+## ABOUT ME :raising_hand_woman:
 
 
 Personal Information 
