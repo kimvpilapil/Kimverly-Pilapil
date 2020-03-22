@@ -23,11 +23,17 @@ In the Philippines, if your child become a nurse, it is held in high regards
 which includes boasting to the neighbour how smart your kid is.
 This is why it is quite common for Filipinos to pursue nursing.
 Hence why I'm doing this course; to explore endless possibilities with *TECHNOLOGY*.
+<br/>
+
+
+<br/>
 
 
 ![anime](https://user-images.githubusercontent.com/62003066/77240764-ba24cc00-6c3d-11ea-89a8-799bd9d8332b.jpg)
 Image from: https://www.ranker.com/crowdranked-list/my-top-10-favorite-anime-characters
 
+
+<br/>
 
 <br/>
 
@@ -38,9 +44,13 @@ Image from: https://www.ranker.com/crowdranked-list/my-top-10-favorite-anime-cha
 <br/>
 
 
+<br/>
 
 ![sword art online](https://user-images.githubusercontent.com/62003066/77242796-9cb02c00-6c56-11ea-9161-b2f1da599aa8.jpg)
 Image from: https://wallpaperaccess.com/sword-art-online
+
+<br/>
+
 
 <br/>
 
