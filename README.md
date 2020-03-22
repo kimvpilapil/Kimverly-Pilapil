@@ -26,6 +26,8 @@ Hence why I'm doing this course; to explore endless possibilities with *TECHNOLO
 
 
 ![anime](https://user-images.githubusercontent.com/62003066/77240764-ba24cc00-6c3d-11ea-89a8-799bd9d8332b.jpg)
+Image from: https://www.ranker.com/crowdranked-list/my-top-10-favorite-anime-characters
+
 
 ## Fun Facts About Me
 1. I love anything horror from movies, games and books,but will get scared if I'm alone in the dark.
