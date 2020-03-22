@@ -31,6 +31,9 @@ Hence why I'm doing this course; to explore endless possibilities with *TECHNOLO
 3. I love games but i suck at most of them, I actually prefer to watch and yell more haha.
 
 
+![anime](https://user-images.githubusercontent.com/62003066/77240764-ba24cc00-6c3d-11ea-89a8-799bd9d8332b.jpg)
+
+
 
 
 
