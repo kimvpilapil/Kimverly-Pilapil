@@ -147,7 +147,9 @@ institution again as I find the environment and tutors really proactive and supp
 
 
 <br/>
+
  **My Skills**
+ <br/>
  
  <br/>
  •Basic IT knowledge; can navigate the net and able to fix simple tech problems.
@@ -165,6 +167,28 @@ institution again as I find the environment and tutors really proactive and supp
  <br/>
  
   **Pathway**
+  <br/>
+  
+  <br/>
+  •Get a degree in IT; can be Software Engineer, Computer Science or Data Scientist which can take up to 3+ years.
+  <br/>
+  
+  <br/>
+  •Get an internship for companies such as Unity or any RMIT recommended ones that will allow my IT skills to develop and grow. Start from the basics, build my foundation and work hard for my end goal.
+  <br/>
+  
+  <br/>
+  •Continue climbing up the ladder; reasearch and more research. Trial and errors. 
+  <br/>
+  
+  <br/>
+  •Who knows maybe i'll change my carrer path and do something different like AI; keeping an open mind to ooportunities.
+  <br/>
+  
+  <br/>
+  
+  
+  
   
 
 
@@ -173,7 +197,7 @@ institution again as I find the environment and tutors really proactive and supp
  
 
  
-• A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can. 
+ 
 
 
 
