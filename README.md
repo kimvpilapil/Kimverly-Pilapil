@@ -17,7 +17,7 @@ Email Address:
 
 My name is *Kimverly* or *Kim* for short.
 I was born in the Philippines and arrived in Australia back in 2010.
-At home I can speak both Tagalog and Visaya; Philippines' national languages. :philippines:
+At home I can speak both Tagalog and Visaya; Philippines' national languages.
 I graduated from RMIT back in 2018 and got my Bachelors of Nursing.
 In the Philippines, if your child become a nurse, it is held in high regards
 which includes boasting to the neighbour how smart your kid is.
@@ -25,11 +25,14 @@ This is why it is quite common for Filipinos to pursue nursing.
 Hence why I'm doing this course; to explore endless possibilities with *TECHNOLOGY*
 
 
-Fun Fact About Me:
+### Fun Fact About Me
+1:
 > I love anything horror from movies, games and books,
    but will get scared if I'm alone in the dark.
+2:
 >Big closet weeb and nerd; please recommend me the goriest anime,
   nothing quite beats Corpse Party yet.
+3:
 > I love games but i suck at most of them, I actually prefer to watch and yell more haha.
 
 
@@ -39,5 +42,6 @@ Fun Fact About Me:
 
 
 
-### Markdown
+
+
 
