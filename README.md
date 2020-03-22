@@ -26,11 +26,9 @@ Hence why I'm doing this course; to explore endless possibilities with *TECHNOLO
 
 
 ### Fun Fact About Me
->- I love anything horror from movies, games and books,
-   but will get scared if I'm alone in the dark.
-   >-Big closet weeb and nerd; please recommend me the goriest anime,
-  nothing quite beats Corpse Party yet.
-    > -I love games but i suck at most of them, I actually prefer to watch and yell more haha.
+-I love anything horror from movies, games and books,but will get scared if I'm alone in the dark.
+   -Big closet weeb and nerd; please recommend me the goriest anime, nothing quite beats Corpse Party yet.
+     -I love games but i suck at most of them, I actually prefer to watch and yell more haha.
 
 
 
