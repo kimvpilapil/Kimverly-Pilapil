@@ -223,6 +223,34 @@ http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.s
 <br/>
 
 <br/>
+![big5](https://user-images.githubusercontent.com/62003066/77246512-29b9ac00-6c7c-11ea-88b4-0e373a470824.png)
+https://www.truity.com/personality-test/17315/test-results/17215751
+
+<br/>
+
+<br/>
+
+**TEST RESULTS**
+<br/>
+
+<br/>
+• What do the results of these tests mean for you? 
+-It means that I  tend to see life as a big, complex puzzle where everything is connected. I also like to use my insight and creativity to help others.I about how the world could be a better and more beautiful place. I am also a visual learner meaning I mostly understand or retain information by sight. 
+
+<br/>
+
+<br/>
+• How do you think these results may influence your behaviour in a team? 
+-I work really well in a team as I am easily agreeable and likes to keep the environment in a peaceful and civil manner. I'm also not afraid to stick up for what is right and will always or most likely get along with everyone in the team. My open-mindedness helps with decision-making while my extrovert personally can help reach out to other whom are afraid to have a say during group discussions.
+<br/>
+
+<br/>
+• How should you take this into account when forming a team? 
+-There are a few personality types I wont be able to agree with but I can work well in any team that are able to come to a conclusion regarding what they want the end goal of the team project to be. I am kind to a fault and will always play the role of the "peace keeper" which will prove beneficial during group project designations.
+<br/>
+
+<br/>
+
 
 
   
