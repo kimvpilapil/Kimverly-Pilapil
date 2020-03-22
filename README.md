@@ -87,17 +87,63 @@ institution again as I find the environment and tutors really proactive and supp
 
 ## Ideal Job 
 <br/>
-• The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline). 
+
+![image](https://user-images.githubusercontent.com/62003066/77244773-3551a680-6c6d-11ea-99d6-2d56dfc382bc.png)
+ <br/>
+ https://careers-gokenamerica.icims.com/jobs/2958/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mode=job&iis=Job+board+-+Indeed.com&iisn=Indeed.com&mobile=false&width=920&height=500&bga=true&needsRedirect=false&jan1offset=660&jun1offset=600
+ 
+ <br/>
+ 
+ 
+ 
+ <br/>
+ **Position Description**
+ •Being a part of an innovative team with the company's motto of "Creating Something Different".
+ <br/>
+ •Software creation which includes both AR and VR implementation.
+ <br/>
+ •Integrate and apply new technology in existing systems and processes.
+ <br/>
+ •The comapany's vision and mission of empowering associates and fostering greatness and excellence in the community.
+  <br/>
+  
+  <br/>
+**Qualifications and Experience**
+<br/>
+•3+ years of experience developing content in Unity or Unreal Engine
+<br/>
+•3+ years of experience as a programmer and listed programming languages
+<br/>
+•Basic understanding of CATIA V5
+<br/>
+•Experience using AR & VR hardware and software
+<br/>
+•Engineering degree in computer science or computer related area
+<br/>
+
+
+
+<br/>
+ **My Skills**
+ •Basic IT knowledge; can navigate the net and able to fix simple tech problems.
+ <br/>
+ •Experience with gaming gadgets such as the PS4, Xbox, Wii.
+ <br/>
+ •Bachelors Degree in Nursing; Can manouver around the EMR (Electroinic Medical Record).
+ <br/>
+ 
+ 
+ <br/>
+ 
+  **Pathway**
+  
 
 
 
 
+ 
 
-
-
-• A description (in your own words) of the position, and particularly what makes this position appealing to you. 
-• A description (in your own words) of the skills, qualifications and experience required for the position. 
-• A description (in your own words) of the skills, qualifications and experience you currently have. 
+ 
 • A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can. 
 
 
