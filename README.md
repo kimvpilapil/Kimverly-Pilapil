@@ -10,7 +10,7 @@ Email Address:
 
 
 
-# ABOUT ME :raising_hand_woman:
+# ABOUT ME
 
 ![kimvee](https://user-images.githubusercontent.com/62003066/77240397-7334d780-6c39-11ea-9b61-fd48cd3eb4d1.jpg)
 
@@ -36,7 +36,7 @@ Image from: https://www.ranker.com/crowdranked-list/my-top-10-favorite-anime-cha
 
 
 
-
+![sword art online](https://user-images.githubusercontent.com/62003066/77242796-9cb02c00-6c56-11ea-9161-b2f1da599aa8.jpg)
 
 # Interest in IT 
 • *My interest in IT* originated with my love for anime and games. This is highly influence from an anime called "Sword Art Online" where people from around the world can play real-life online games using a high tech version of the VR device. I don't have much IT skills other than trying to fix my laptop when it lags during a game; just basic knowledge to get me through daily work. 
