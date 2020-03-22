@@ -7,7 +7,7 @@ Student Number:
 Email Address:
 >s3609748@student.rmit.edu.au
 
-
+<br/>
 
 
 # ABOUT ME
@@ -29,14 +29,20 @@ Hence why I'm doing this course; to explore endless possibilities with *TECHNOLO
 Image from: https://www.ranker.com/crowdranked-list/my-top-10-favorite-anime-characters
 
 
+<br/>
+
 ## Fun Facts About Me
 1. I love anything horror from movies, games and books,but will get scared if I'm alone in the dark.
 2. Big closet weeb and nerd; please recommend me the goriest anime, nothing quite beats Corpse Party.
 3. I love games but i suck at most of them, I actually prefer to watch and yell more haha.
+<br/>
 
 
 
 ![sword art online](https://user-images.githubusercontent.com/62003066/77242796-9cb02c00-6c56-11ea-9161-b2f1da599aa8.jpg)
+Image from: https://wallpaperaccess.com/sword-art-online
+
+<br/>
 
 # Interest in IT 
 • *My interest in IT* originated with my love for anime and games. This is highly influence from an anime called "Sword Art Online" where people from around the world can play real-life online games using a high tech version of the VR device. I don't have much IT skills other than trying to fix my laptop when it lags during a game; just basic knowledge to get me through daily work. 
@@ -48,7 +54,11 @@ institution again as I find the environment and tutors really proactive and supp
 
 
 
-
+Ideal Job 
+Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate. 
+ There are various ways to search for IT jobs, including websites like {seek.com.au}. You should include the following information. 
+ 
+• The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline). • A description (in your own words) of the position, and particularly what makes this position appealing to you. • A description (in your own words) of the skills, qualifications and experience required for the position. • A description (in your own words) of the skills, qualifications and experience you currently have. • A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can. 
 
 
 
