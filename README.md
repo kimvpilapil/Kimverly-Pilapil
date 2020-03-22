@@ -332,11 +332,25 @@ This game will consist of a few things everyone will have already seen in gaming
 <br/>
 
 <br/>
+**References**
+<br/>
+
+<br/>
+Davies, A. (2020). 10 Great Tools for VR Development I DevTeam.Space. DevTeam.Space. Retrieved 22 March 2020, from https://www.devteam.space/blog/10-great-tools-for-vr-development/.
+<br/>
+
+Bitner, J. (2020). 11 Tools for VR Developers | Lullabot. Lullabot.com. Retrieved 22 March 2020, from https://www.lullabot.com/articles/11-tools-for-vr-developers.
+<br/>
+
+Sales. (2018). How VR Works? Know The Technology Behind Virtual Reality. Newgenapps.com. Retrieved 22 March 2020, from https://www.newgenapps.com/blog/how-vr-works-technology-behind-virtual-reality.
+<br/>
+
+Soft, A. (2018). How to Get Started with VR: Intro to Your First Virtual Reality Project. AltexSoft. Retrieved 22 March 2020, from https://www.altexsoft.com/blog/engineering/how-to-get-started-with-vr-intro-to-your-first-virtual-reality-project/.
 
   
   
   
- 
+ ## Thank You For Visiting, Don't Forget Your Hand Hygiene! Stay Safe During This Pandemic!
  
   
   
