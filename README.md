@@ -66,7 +66,7 @@ Image from: https://wallpaperaccess.com/sword-art-online
 
 <br/>
 
-
+<br/>
 
 • *Why RMIT*? The "T" in RMIT literally stands for Technology. I have graduated from RMIT in 2018 and wouldn't mind studying in this
 institution again as I find the environment and tutors really proactive and supportive towards their students. Plus its in the city, which means a variety of food to choose from during lunch. Although this is an online course, I like studying at the RMIT library in the city.
