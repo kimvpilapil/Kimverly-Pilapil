@@ -108,7 +108,9 @@ institution again as I find the environment and tutors really proactive and supp
   <br/>
   
   <br/>
+  
 **Qualifications and Experience**
+<br/>
 <br/>
 •3+ years of experience developing content in Unity or Unreal Engine
 <br/>
@@ -125,9 +127,15 @@ institution again as I find the environment and tutors really proactive and supp
 
 <br/>
  **My Skills**
+ 
+ <br/>
  •Basic IT knowledge; can navigate the net and able to fix simple tech problems.
  <br/>
+ 
+ <br/>
  •Experience with gaming gadgets such as the PS4, Xbox, Wii.
+ <br/>
+ 
  <br/>
  •Bachelors Degree in Nursing; Can manouver around the EMR (Electroinic Medical Record).
  <br/>
