@@ -21,7 +21,8 @@ At home I can speak both Tagalog and Visaya; Philippines' national languages.
 I graduated from RMIT back in 2018 and got my Bachelors of Nursing.
 In the Philippines, if your child become a nurse, it is held in high regards
 which includes boasting to the neighbour how smart your kid is.
-This is why it is quite common for Filipinos to puruse nursing.
+This is why it is quite common for Filipinos to pursue nursing.
+Hence why I'm doing this course; to explore endless possibilities with *TECHNOLOGY*
 
 
 Fun Fact About Me:
