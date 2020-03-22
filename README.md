@@ -206,11 +206,25 @@ institution again as I find the environment and tutors really proactive and supp
   
   <br/>
   
-  **Online Learning Style Test**
+  **ONLINE LEARNING STYLE TESTt**
   
   <br/>
   
   <br/>
+  
+![Visual](https://user-images.githubusercontent.com/62003066/77246485-d0ea1380-6c7b-11ea-9686-cf3069c9b2c1.png)
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=5&V=8&T=7
+
+<br/>
+
+<br/>
+
+**BIG 5 PERSONALITY TEST**
+<br/>
+
+<br/>
+
+
   
   
   
