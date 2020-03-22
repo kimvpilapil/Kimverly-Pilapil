@@ -97,28 +97,49 @@ institution again as I find the environment and tutors really proactive and supp
  
  
  <br/>
+ 
  **Position Description**
+ <br/>
+ 
+ <br/>
  •Being a part of an innovative team with the company's motto of "Creating Something Different".
+ <br/>
+ 
  <br/>
  •Software creation which includes both AR and VR implementation.
  <br/>
+ 
+ <br/>
  •Integrate and apply new technology in existing systems and processes.
+ <br/>
+ 
  <br/>
  •The comapany's vision and mission of empowering associates and fostering greatness and excellence in the community.
   <br/>
   
   <br/>
+  <br/>
   
+
 **Qualifications and Experience**
 <br/>
+
 <br/>
 •3+ years of experience developing content in Unity or Unreal Engine
 <br/>
+
+<br/>
 •3+ years of experience as a programmer and listed programming languages
+<br/>
+
 <br/>
 •Basic understanding of CATIA V5
 <br/>
+
+<br/>
 •Experience using AR & VR hardware and software
+<br/>
+
 <br/>
 •Engineering degree in computer science or computer related area
 <br/>
